@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, WELCOME to my github profile!</h1>
 
 <p align="center">
-  Making life easier with code.
+  Java and C# developer, focused on Object Oriented Programming
 </p>
 
 ---
