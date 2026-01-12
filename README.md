@@ -8,6 +8,6 @@
 
 <div align="center">
   <a href="https://github.com/MatheusBenestorff">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBenestorff&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats-alpha-rose-58.vercel.app/api/top-langs/?username=MatheusBenestorff&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
