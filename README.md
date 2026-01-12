@@ -22,22 +22,4 @@
     <img src="https://github-readme-stats-alpha-rose-58.vercel.app/api/pin/?username=MatheusBenestorff&repo=DocParser&theme=algolia" />
   </a>
 </div>
-
-
-<div align="center">
-  <a href="https://github.com/MatheusBenestorff/FitLogApp">
-    <img src="https://github-readme-stats-alpha-rose-58.vercel.app/api/pin/?username=MatheusBenestorff&repo=FitLogApp&theme=algolia" />
-  </a>
-  <a href="https://github.com/MatheusBenestorff/Pac-Man">
-    <img src="https://github-readme-stats-alpha-rose-58.vercel.app/api/pin/?username=MatheusBenestorff&repo=Pac-Man&theme=algolia" />
-  </a>
-</div>
-
-<div align="center">
-    <a href="https://github.com/MatheusBenestorff/Eventus">
-    <img src="https://github-readme-stats-alpha-rose-58.vercel.app/api/pin/?username=MatheusBenestorff&repo=Eventus&theme=algolia" />
-  </a>
-  <a href="https://github.com/MatheusBenestorff/FitLogJava">
-    <img src="https://github-readme-stats-alpha-rose-58.vercel.app/api/pin/?username=MatheusBenestorff&repo=FitLogJava&theme=algolia" />
-  </a>
 </div>
