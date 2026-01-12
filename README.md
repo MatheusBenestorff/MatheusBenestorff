@@ -4,8 +4,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-alpha-rose-58.vercel.app/api?username=MatheusBenestorff&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats-alpha-rose-58.vercel.app/api?username=MatheusBenestorff&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="200" alt="stats graph" />
   <img src="https://github-readme-stats-alpha-rose-58.vercel.app/api/top-langs/?username=MatheusBenestorff&layout=compact&langs_count=7&theme=algolia&exclude_repo=github-readme-stats,jeux" height="200" alt="languages graph" />
+  
+  <br/>
+  <img src="https://github-readme-stats-alpha-rose-58.vercel.app/api/wakatime?username=MatheusBenestorff&theme=algolia&layout=compact&range=last_7_days" alt="WakaTime stats" />
 </div>
 
 <h3 align="center">Main Projects</h3>
