@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats-alpha-rose-58.vercel.app/api/top-langs/?username=MatheusBenestorff&layout=compact&langs_count=7&theme=algolia&exclude_repo=github-readme-stats,jeux,CostaCoral" height="200" alt="languages graph" />
   
   <br/>
-  <img src="https://github-readme-stats-alpha-rose-58.vercel.app/api/wakatime?username=MatheusBenestorff&theme=algolia&layout=compact&range=last_7_days&refresh=1" alt="WakaTime stats" />
+  <img src="https://github-readme-stats-alpha-rose-58.vercel.app/api/wakatime?username=MatheusBenestorff&theme=algolia&range=last_7_days&langs_count=10&refresh=1" alt="WakaTime stats" />
 </div>
 
 <h3 align="center">Main Projects</h3>
