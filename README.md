@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi there 👋, WELCOME to my github profile!</h3>
-  <p>Java and C# developer, focused on Object Oriented Programming</p>
+  <p>Backend Developer, focused on Object Oriented Programming</p>
 </div>
 
 <div align="center">
